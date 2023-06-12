@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Ludxns
+- 👀 I’m interested in Coding, anime and videogames
+- 🌱 I’m currently learning Flutter and Phyton
+- 💞️ I’m currency on consultory
+- 📫 How to reach me ...
